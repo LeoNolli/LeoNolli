@@ -1,7 +1,7 @@
 ### Olá, Meu nome é José Leonardo.
 
 - 🔭 Sou estudante de ADS
-- 🌱 Estudo Python,Data Science e Swift
+- 🌱 Este é meu diretorio pessoal, porém também possuo um diretorio secundário, onde existem projetos da época do ensino médio. Sou estudante e estou em desenvolvimento, qualquer crítica será bem vinda.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
