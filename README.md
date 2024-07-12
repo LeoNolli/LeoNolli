@@ -1,12 +1,10 @@
 ### Olá, Meu nome é José Leonardo.
 
-- 🔭 Sou estudante de ADS
-- 🌱 Este é meu diretorio pessoal, porém também possuo um diretorio secundário (https://github.com/LeoNoli), onde existem projetos da época do ensino médio. Sou estudante e estou em desenvolvimento, qualquer crítica será bem vinda.
+- 🔭 I am a Systems Analysis and Development student.
+- 🌱 I am currently delving into the field of data analysis, deeply studying the languages Python, Java, and R. I am also using DBMSs along with Power BI to make the extracted data visual, enabling decision-making based on the data transformation process.
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img  align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
