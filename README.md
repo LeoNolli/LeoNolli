@@ -8,7 +8,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img  align="center" alt="Rafa-Csharp" height="30" width="40" src='https://img.icons8.com/?size=100&id=UFF3hmipmJ2V&format=png&color=000000'/>
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://img.icons8.com/?size=100&id=111021&format=png&color=000000">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://img.icons8.com/?size=100&id=aRmc1jZ2nwaJ&format=png&color=000000">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" />
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://img.icons8.com/?size=100&id=Tv9PzYbf0vqw&format=png&color=000000" />
  
