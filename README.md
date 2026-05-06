@@ -31,10 +31,10 @@ Pós-graduando em **Inteligência Artificial e Aprendizado de Máquina pela PUC 
 ## 📫 Vamos nos conectar?
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/josenoli/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white">
   </a>
-  <a href="mailto:josenoli01@gmail.com">
+  <a href="mailto:josenolicontato@gmail.com">
     <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white">
   </a>
 </p>
