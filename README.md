@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" alt="Banner Animado">
 </p>
 
 # Olá, eu sou o José Leonardo! 👋
@@ -25,13 +25,6 @@ Pós-graduando em **Inteligência Artificial e Aprendizado de Máquina pela PUC 
 ![n8n](https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=for-the-badge&logo=ai&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
----
-
-## 📂 Projetos em Destaque
-
-* **[Agente de IA Inteligente]:** n8n + GroqCloud + RAG para gestão de contextos.
-* **[Sistemas Multi-Agentes]:** Orquestração via CrewAI para automação de ML.
 
 ---
 
