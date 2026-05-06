@@ -1,49 +1,49 @@
-# Olá, eu sou o José Leonardo! 👋
+# 🤖 Olá, eu sou o José Leonardo! 👋
 
-### 📊 Analista de Dados | Especialista em IA, BI & Analytics
+### **Especialista em Inteligência Artificial & Machine Learning**
+**AI Agent Architecture | LLMs | Advanced Automation**
 
-Sou graduado em **Análise e Desenvolvimento de Sistemas** com pós-graduação em **Analytics e Business Intelligence**. Atualmente, foco na convergência entre a análise de dados tradicional e o poder da **Inteligência Artificial**, criando soluções que vão desde dashboards estratégicos até automações complexas com agentes inteligentes.
+Sou graduado em **Análise e Desenvolvimento de Sistemas** e pós-graduando em **Inteligência Artificial e Aprendizado de Máquina pela PUC Minas**. Minha atuação é focada na intersecção estratégica entre o **Aprendizado de Máquina** tradicional e o potencial disruptivo da **IA Generativa**. Desenvolvo arquiteturas complexas de agentes inteligentes e ecossistemas de automação que transformam processos de negócios.
 
 ---
 
-## 🚀 Foco Atual e Estudos
+## 🚀 Expertise & Inovação
 
-* 🤖 **IA & LLMs:** Desenvolvendo fluxos inteligentes com **n8n** e criando equipes de agentes multi-agentes com **CrewAI** (executados via Google Colab).
-* 🐍 **Ciência de Dados:** Aprofundando em **Machine Learning**, **Python** (Pandas, Scikit-learn) e **SQL** para modelagem preditiva.
-* 📈 **Business Intelligence:** Design de dashboards avançados no **Power BI** utilizando **DAX** para transformar dados em decisões.
+* 🤖 **AI Agents & LLMs:** Arquiteto de automações inteligentes no **n8n** e orquestração de sistemas multi-agentes com **CrewAI** (Python/Colab), aplicando conceitos de **RAG**, prompts base e memória persistente.
+* 🧠 **Machine Learning & IA:** Aplicação de algoritmos de aprendizado de máquina e integração de modelos de linguagem (LLMs) para criar soluções que aprendem e escalam.
+* ⚙️ **Automação de Processos:** Especialista em conectar ferramentas no-code e code (Python) para criar fluxos de trabalho autônomos e eficientes.
 
 ---
 
 ## 🛠️ Stack Tecnológica
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
 ![n8n](https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=for-the-badge&logo=openai&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=for-the-badge&logo=ai&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📂 Projetos em Destaque
+
+* **[Agente de IA Inteligente]:** Automação com n8n, GroqCloud e RAG para gestão de contextos e memória.
+* **[Sistemas Multi-Agentes]:** Orquestração de tarefas via CrewAI para automação de processos complexos de ML.
 
 ---
 
 ## 📫 Vamos nos conectar?
 
-<div>
-  <a href="mailto:josenolicontato@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+<p align="left">
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.linkedin.com/in/jose-leonardo-noli-b3b012226" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="mailto:josenoli01@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://discordapp.com/users/noli#7950" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
-</div>
+</p>
 
----
-
-### 🎨 Adicionando seu Banner GIF
-
-Para adicionar o banner, coloque este código na **primeira linha** do seu arquivo:
-
-```markdown
-![Banner do José](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW9ueW9ueW9ueW9ueW9ueW9ueW9ueW9ueW9ueW9ueW9ueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKSjPqcKUIwUu8U/giphy.gif)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="600">
+</p>
