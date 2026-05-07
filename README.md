@@ -7,7 +7,7 @@
 ### **Especialista em IA & Machine Learning**
 **AI Agent Architecture | LLMs | CrewAI | n8n**
 
-Pós-graduando em **Inteligência Artificial e Aprendizado de Máquina pela PUC Minas**. Desenvolvo arquiteturas de agentes inteligentes e ecossistemas de automação que integram **IA Generativa** a processos de negócios reais.
+Especialista em Automação e Pós-graduando em IA pela PUC Minas. Construo ecossistemas de automação que unem IA Generativa e engenharia de processos para resolver problemas reais de negócios. Minha abordagem foca em IA Estratégica, n8n e integração nativa de APIs para baratear custos e escalar a eficiência operacional.
 
 ---
 
